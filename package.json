@@ -1,0 +1,20 @@
+{
+  "name": "pdf-2-json-converter",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.3.0",
+    "npm": "6.14.5"
+  },
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^1.2.0",
+    "pdfreader": "^1.0.7"
+  }
+}
